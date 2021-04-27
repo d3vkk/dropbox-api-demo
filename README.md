@@ -41,4 +41,4 @@ Upload a file of our choice. Included is `hello-world.txt` as an example
 
 [For more information](https://github.com/kunalvarma05/dropbox-php-sdk/wiki/Getting%20Started)
 
-© 2020 Donald K • Under MIT License
+© 2020-present Donald K • Under MIT License
